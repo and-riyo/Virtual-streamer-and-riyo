@@ -1,4 +1,7 @@
 # Virtual-streamer-and-riyo
+I'm &Riyo, a virtual streamer. I provide monthly fortune videos. I hope your daily life will be enjoyable.
+<br>
+<br>
 Here I'll publish all the data related to &amp;Riyo.
 <br>
 <br>
