@@ -18,7 +18,7 @@ Digital Luck Items: https://tryshowtime.com/riyo
 <br>
 Support me at stakes.social: https://stakes.social/0x054A6F226eb6fe4dAB4945579A7ea314Ef29f5f5
 <br>
-##News
+News
 <br>
 ---
 <br>
