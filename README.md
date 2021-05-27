@@ -18,9 +18,8 @@ Digital Luck Items: https://tryshowtime.com/riyo
 <br>
 Support me at stakes.social: https://stakes.social/0x054A6F226eb6fe4dAB4945579A7ea314Ef29f5f5
 <br>
-News
-<br>
----
+# News
 <br>
 2021.05.27 - All the fortune videos for June have been released.
+<br>
 2021.05.24 - In commemoration of the 100th member of youtube, the digital fortune item "Power of Kanji" was released on the NFT Market.
