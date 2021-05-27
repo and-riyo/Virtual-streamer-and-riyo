@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\thumbnails",
+    "\\thumbnails\\2021.05",
+    "\\thumbnails\\2021.06",
+    "\\videos",
+    "\\videos\\2021.05"
   ],
+  "SelectedNode": "\\thumbnails\\2021.06\\thumbnail_june_01.jpg",
   "PreviewInSolutionExplorer": false
 }
