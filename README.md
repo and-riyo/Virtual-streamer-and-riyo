@@ -20,6 +20,10 @@ Support me at stakes.social: https://stakes.social/0x054A6F226eb6fe4dAB4945579A7
 <br>
 # News
 <br>
+2021.10.11 - All the fortune videos for October have been released. (https://www.youtube.com/watch?v=e6CiRQ3ssdM&list=PLfnl5_VsLvM3Y0tXqYNYemWkOU9phpoNI)
+<br>
+2021.10.11 - All the fortune videos for September have been released. (https://www.youtube.com/watch?v=zm8yYuSth3Q&list=PLfnl5_VsLvM0Z0vETdYVAaBKwapuQb6cb)
+<br>
 2021.08.02 - All the fortune videos for July have been released. (https://www.youtube.com/watch?v=awTdRlit7kA&list=PLfnl5_VsLvM3M_7_iCjJ5ftoQUcAMXCV2)
 <br>
 2021.07.02 - All the fortune videos for July have been released. (https://www.youtube.com/watch?v=vjvrBcubcJ4&list=PLfnl5_VsLvM35hCXc5_yAhnWzh92KnPtm)
